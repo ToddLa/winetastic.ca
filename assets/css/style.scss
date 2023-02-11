@@ -1,0 +1,33 @@
+---
+---
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #f39c12;
+$header-bg-color-secondary: #1d1d1c;
+
+// Text
+$section-headings-color: #ff6600;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+@import "{{ site.theme }}";
+
+.page-header {
+    color: $header-heading-color;
+    text-align: center;
+    background-color: $header-bg-color;
+    background-image: linear-gradient(90deg, $header-bg-color-secondary, $header-bg-color);
+    padding: 0.5em;
+}
+
+.btn.current {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.btn {
+    display: inline-block;
+    width: auto;
+}
