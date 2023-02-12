@@ -11,9 +11,7 @@ Welcome to the Winetastic
 <div>
   {% for row in site.data.sponsors %}
     {% if row['Image'] and row['URL'] %}
-    <div style="display:inline-block;height:4em">
-      <a href="{{row['URL']}}"><img src="{{row['Image']}}"></a>
-    </div>
+      <a href="{{row['URL']}}"><img src="{{row['Image']}}" height="64px"></a>
     {% endif %}
   {% endfor %}
 </div>
