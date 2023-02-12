@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Team Wombat
+# Wintastic
 
 Welcome to the home of `TEAM WOMBAT`
 
