@@ -4,9 +4,6 @@ title: Table test
 
 # Wine
 
-{% assign row = site.data.wine[0] %}
-{{ row | inspect }}
-
 <table>
   {% for row in site.data.wine %}
     {% if forloop.first %}

@@ -2,13 +2,18 @@
 title: Home
 ---
 
-# Wintastic
+# Whistler Blackcomb Wintastic 2023
 
-Welcome to the home of `TEAM WOMBAT`
+Welcome to the Winetastic
 
-# Posts
+# Sponsors
 
-{% for post in site.posts %}
-* [{{ post.title }} - {{ post.date | date_to_string }}]({{ post.url }})  
-{{ post.excerpt | strip_html  | truncatewords:50 }}
-{% endfor %}
+<div>
+  {% for row in site.data.sponsors %}
+    {% if row['Image'] and row['URL'] %}
+      <span>{{row['Name']}}</span>
+      <span>{{row['URL']}}</span>
+      <img src="{{row['Image']}}">
+    {% endif %}
+  {% endfor %}
+</div>
