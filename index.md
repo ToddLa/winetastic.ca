@@ -6,14 +6,14 @@ title: Home
 
 Welcome to the Winetastic
 
-# Sponsors
+# Sponsors we **LOVE**
 
 <div>
   {% for row in site.data.sponsors %}
     {% if row['Image'] and row['URL'] %}
-      <span>{{row['Name']}}</span>
-      <span>{{row['URL']}}</span>
+      <a href="{{row['URL']}}">
       <img src="{{row['Image']}}">
+      </a>
     {% endif %}
   {% endfor %}
 </div>
