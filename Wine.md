@@ -1,22 +1,18 @@
 ---
-title: Table test
+title: Wine
 ---
 
 # Wine
 
-<table>
+<div style="text-align:left">
   {% for row in site.data.wine %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
+    {% if row['Name'] and row['Price'] %}
+        <div>
+        {{row['Name']}}
+        {{row['Price']}}
+        </div>
     {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
   {% endfor %}
-</table>
+</div>
+
 
