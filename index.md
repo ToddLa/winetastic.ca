@@ -2,9 +2,13 @@
 title: Home
 ---
 
-# Whistler Blackcomb Wintastic 2023
+# WELCOME TO THE 2023 WHISTLER WINETASTIC
+### presented by Avaya
 
-Welcome to the Winetastic
+The following is a short note on how to use your passport. The numbers noted after each product are the codes that are standard throughout BC.  This will help you easily find any beverages sampled here this evening by providing this code to your local liquor store. Feel free to mark your preferences, write down your comments, and save this passport for quick reference.
+
+Thank you for your support and we hope you enjoy your evening.
+Cheers!
 
 # Sponsors we **LOVE**
 
