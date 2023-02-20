@@ -3,6 +3,38 @@ title: Food
 ---
 # This evening's food generously provided by
 
+  {% for row in site.data.food %}
+	{% if row['Name'] and row['Info'] and row['Image'] %}
+	    <h2>{{row['Name']}}</h2>
+		<div style="display:flex; align-items: center">
+			<div>{{row['Info']}}</div>
+			<img style="max-width:8em; padding-left:2em" src="{{row['Image']}}">
+		</div>
+		{% if row['Phone'] %}<span>{{row['Phone']}}</span>{% endif %}
+		{% if row['URL'] %}<a href="{{row['URL']}}">{{row['URL']}}</a>{% endif %}
+	{% endif %}
+  {% endfor %}
+
+## Grill & Vine
+<div style="display:flex; align-items: center">
+	<div>
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		Located on Level 1 in the Westin Resort & Spa, Whistler, Grill & Vine offers traditional, North American style favourites with a modern twist. Open daily for breakfast and dinner: 7am - 11:30am, 5pm-10pm.
+		<div>604.935.4344</div> 
+		https://grillandvinewhistler.com
+	</div>
+	<div>
+	<img style="max-width:8em; padding-left: 2em" src="https://images.squarespace-cdn.com/content/v1/604112957ccece1806a2ef03/1618598516691-L795CM8KY4Q1FJEWJ71G/GrillandVine_White.png?format=1500w">
+	</div>
+</div>
+
+<!--
+
 ## Grill & Vine
 
 <img style="max-width:8em; float:right; padding:2em;filter: invert(100%)" src="https://images.squarespace-cdn.com/content/v1/604112957ccece1806a2ef03/1618598516691-L795CM8KY4Q1FJEWJ71G/GrillandVine_White.png?format=1500w">
@@ -39,3 +71,5 @@ We aim to nourish both the body and soul.  We celebrate Canadian cooking; inspir
 Fueled by over 170 years of cocoa expertise, Cacao Barry has a deep-rooted understanding of the very source which allows us to bring you great cocoa to celebrate the diversity of flavours and origins.
 
 www.cacao-barry.com
+
+-->
