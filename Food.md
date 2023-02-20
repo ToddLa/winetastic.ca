@@ -3,6 +3,7 @@ title: Food
 ---
 # This evening's food generously provided by
 
+<div>
   {% for row in site.data.food %}
 	{% if row['Name'] and row['Info'] and row['Image'] %}
 	    <h2>{{row['Name']}}</h2>
@@ -14,6 +15,7 @@ title: Food
 		{% if row['URL'] %}<a href="{{row['URL']}}">{{row['URL']}}</a>{% endif %}
 	{% endif %}
   {% endfor %}
+</div>
 
 ## Grill & Vine
 <div style="display:flex; align-items: center">
