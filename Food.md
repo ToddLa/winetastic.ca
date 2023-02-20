@@ -12,8 +12,8 @@ title: Food
 			<img style="max-width:8em; padding-left:1em" src="{{row['Image']}}">
 		</div>
 		<div>
-			{% if row['Phone'] %}<a class="btn" href="tel:{{row['Phone']}}">{{row['Phone']}}</a>{% endif %}
-			{% if row['URL'] %}<a class="btn" href="{{row['URL']}}">{{row['URL']}}</a>{% endif %}
+			{% if row['Phone'] %}<a href="tel:{{row['Phone']}}">{{row['Phone']}}</a>{% endif %}
+			{% if row['URL'] %}<a href="{{row['URL']}}">{{row['URL']}}</a>{% endif %}
 		</div>
 	{% endif %}
   {% endfor %}
