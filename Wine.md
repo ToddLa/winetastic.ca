@@ -11,15 +11,14 @@ title: Wine
     {% continue %}
     {% endif %}
 
-    {% if row.Info == nil %}
+    {% if row.Number == nil and row.Price == nil %}
     <br><strong>{{row['Name']}}</strong>
     {% continue %}
     {% endif %}
    
     <div style="display:flex; align-items: center">
-        <div>{{row['Name'] | strip}}</div>
-        <div>{{row['Number'] | strip}}</div>
-        <div>{{row['Price'] | strip}}</div>
+        <div>{{row['Name'] | strip}} &bull; {{row['Number'] | strip}}</div>
+        <div>{{row['Price'] | default "$9.99" | strip}}</div>
     </div>
   {% endfor %}
 </div>
