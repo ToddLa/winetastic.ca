@@ -5,7 +5,7 @@ title: Wine
 # Wine
 
 <div>
-  {% for row in site.data.food %}
+  {% for row in site.data.wine %}
   
     {% if row.Name == nil %}
     {% continue %}
