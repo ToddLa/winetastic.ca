@@ -16,9 +16,9 @@ title: Wine
     {% continue %}
     {% endif %}
    
-    <div style="display:flex; align-items: center">
+    <div style="display:flex; justify-content: space-between;">
         <div>{{row['Name'] | strip}} &bull; {{row['Number'] | strip}}</div>
-        <div>{{row['Price'] | default "$9.99" | strip}}</div>
+        <div>{{row['Price'] | strip}}</div>
     </div>
   {% endfor %}
 </div>
