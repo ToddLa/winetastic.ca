@@ -9,6 +9,21 @@ The following is a short note on how to use your passport. The numbers noted aft
 Thank you for your support and we hope you enjoy your evening.
 Cheers!
 
+# WELCOME TO THE 2023 WHISTLER WINETASTIC<BR>Presented by REMAX Sea to Sky Real Estate
+
+The following is a short note on how to use your passport. The numbers noted after each product are the codes/SKUs that are standard throughout BC. This will help you easily find any beverages sampled here this evening by providing this code to your local liquor store. Feel free to mark your preferences, write down your comments, and save this passport for quick reference.
+
+Thank you for your support and we hope you enjoy your evening. Cheers!
+
+## Our Mission
+The Whistler Blackcomb Foundation has raised over 18 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
+
+
+The Whistler Blackcomb Foundation 4545 Blackcomb Way
+Whistler, BC
+V8E 0X9
+[whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
+
 # Sponsors we **LOVE**
 
 <div style="text-align:center">
