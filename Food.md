@@ -15,8 +15,8 @@ title: Food
    
     <h2>{{row['Name']}}</h2>
     <div style="display:flex; align-items: center">
-        <div>{{row['Info'] | newline_to_br}}</div>
-        {% if row['Image'] %}
+        <div>{{row['Info'] | strip | newline_to_br | replace: "<br>", "<br><br>"}}</div>
+        {% if row['Image'] %}<
         <img style="max-width:8em; padding-left:1em" src="{{row['Image']}}">
         {% endif %}
     </div>
