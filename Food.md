@@ -1,8 +1,6 @@
 ---
 title: Food
 ---
-# This evening's food generously provided by
-
 <div>
   {% for row in site.data.food %}
   
@@ -11,14 +9,14 @@ title: Food
     {% endif %}
 
     {% if row.Info == nil %}
-    <h3>{{row.Name}}</h3>
+    <h1>{{row.Name}}</h1>
     {% continue %}
     {% endif %}
    
     <h2>{{row['Name']}}</h2>
     <div style="display:flex; align-items: center">
         <div>{{row['Info']}}</div>
-        {% if row['Image'] %}
+        {% if row['xxImage'] %}
         <img style="max-width:8em; padding-left:1em" src="{{row['Image']}}">
         {% endif %}
     </div>
