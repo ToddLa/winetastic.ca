@@ -19,7 +19,9 @@ Whistler, BC
 V8E 0X9  
 [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
 
-# Sponsors we **LOVE**
+# THANK YOU
+
+The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sponsors of the 24th Annual Whistler Winetastic.  
 
 <div style="text-align:center">
   {% for row in site.data.sponsors %}
@@ -28,3 +30,5 @@ V8E 0X9
     {% endif %}
   {% endfor %}
 </div>
+
+And a huge thank you to all of the attendees of this evening’s event. The Sea to Sky Community is lucky to have you in it!
