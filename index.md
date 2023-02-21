@@ -13,9 +13,10 @@ Thank you for your support and we hope you enjoy your evening. Cheers!
 The Whistler Blackcomb Foundation has raised over 18 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
 
 
-The Whistler Blackcomb Foundation 4545 Blackcomb Way
-Whistler, BC
-V8E 0X9
+The Whistler Blackcomb Foundation  
+4545 Blackcomb Way  
+Whistler, BC  
+V8E 0X9  
 [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
 
 # Sponsors we **LOVE**
