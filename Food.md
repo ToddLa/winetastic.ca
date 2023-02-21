@@ -5,6 +5,9 @@ title: Food
 
 <div>
   {% for row in site.data.food %}
+    {{ row }}
+    {{ row.size }}
+    
     {% if row.size == 0 %}
     <h3>ZERO ROW</h3>
     {% continue %}
