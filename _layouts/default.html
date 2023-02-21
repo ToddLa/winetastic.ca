@@ -17,7 +17,7 @@
         {{ site.title }}
       </h1>
       {% for p in site.pages %}
-        {% if p.title && p.dir == "/" %}
+        {% if p.title and p.dir == "/" %}
         {% if p.url == page.url %}
           <a href="{{ p.url | relative_url | remove: '.html' }}" class="btn current">{{ p.title }}</a>
         {% else %}
