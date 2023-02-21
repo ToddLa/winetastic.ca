@@ -5,6 +5,18 @@ title: Food
 
 <div>
   {% for row in site.data.food %}
+    {% if row.size == 0 %}
+    <h3>ZERO ROW</h3>
+    {% continue %}
+    {% endif %}
+    
+    {% if row.size == 1 %}
+    <h3>TITLE ROW: {{row.Name}}</h3>
+    <h3>TITLE ROW: {{row.name}}</h3>
+    <h3>TITLE ROW: {{row['Name']}}</h3>
+    {% continue %}
+    {% endif %}
+
 	{% if row['Name'] and row['Info'] and row['Image'] %}
 	    <h2>{{row['Name']}}</h2>
 		<div style="display:flex; align-items: center">
