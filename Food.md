@@ -5,11 +5,19 @@ title: Food
 
 <div>
   {% for row in site.data.food %}
-    <code>
-    {{ row }}
-    {{ row.size }}
-    {{ row | size }}
-    </code>
+  
+    {% if row['Name'] == nil %}
+    <h3>ZERO ROW!</h3>
+    {% continue %}
+    {% endif %}
+    
+    <pre>
+    {{ row[0] }}
+    {{ row[1] }}
+    {{ row[2] }}
+    {{ row[3] }}
+    {{ row[5] }}
+    </pre>
     
     {% if row.size == 0 %}
     <h3>ZERO ROW</h3>
