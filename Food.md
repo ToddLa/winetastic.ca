@@ -13,7 +13,7 @@ title: Food
     {% continue %}
     {% endif %}
    
-    <strong>{{row['Name']}}</strong><br />
+    <h2>{{row['Name']}}</h2>
     <div style="display:flex; align-items: center">
         <div>{{row['Info'] | strip | newline_to_br | replace: "<br />", "<br /><br />"}}</div>
         {% if row['Image'] %}
