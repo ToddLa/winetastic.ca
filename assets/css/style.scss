@@ -42,7 +42,8 @@ $blockquote-text-color: #819198 !default;
 }
 
 .main-content .btn {
-    color: rgba(80,80,80,0.7);
-    background-color: rgba(80,80,80,0.08);
+    color: #FFF
+    background-color: rgba($section-headings-color,0.8);
     padding: 0.25rem 0.5rem;
+    margin-left: 0.25rem;
 }
