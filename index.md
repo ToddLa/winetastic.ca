@@ -19,6 +19,11 @@ Whistler, BC
 V8E 0X9  
 [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
 
+<a class="btn" href="https://whistlerblackcombfoundation.com">whistlerblackcombfoundation.com</a>
+<a class="btn" href="https://whistlerblackcombfoundation.com">WBF</a>
+<a class="btn" href="https://whistlerblackcombfoundation.com">WBF</a>
+<a class="btn" href="https://whistlerblackcombfoundation.com">whistlerblackcombfoundation.com</a>
+
 # THANK YOU
 
 The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sponsors of the 24th Annual Whistler Winetastic.  

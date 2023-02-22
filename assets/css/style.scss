@@ -40,3 +40,9 @@ $blockquote-text-color: #819198 !default;
     display: inline-block;
     width: auto;
 }
+
+.main-content .btn {
+    color: rgba(80,80,80,0.7);
+    background-color: rgba(80,80,80,0.08);
+    padding: 0.25rem 0.5rem;
+}
