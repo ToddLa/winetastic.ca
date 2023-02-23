@@ -26,7 +26,7 @@ title: Wine
     <div style="display:flex; justify-content: space-between;">
         <div>
           {{row['Name'] | strip}}
-          {% if row.Number != "" and row.Number != "0" and row.Number != "+00000" %}
+          {% if row.Number != "" and row.Number != "0" and row.Number | strip != "+00000" %}
             <a href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
               {{row['Number'] | strip}}
             </a>
