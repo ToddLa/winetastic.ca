@@ -10,16 +10,14 @@ title: Wine
     {% if row.Name == nil %}
     {% continue %}
     {% endif %}
+    
+    {% if row.Number == nil and row.Price == nil and (row.Name | split: ' ' | first) == '#' %}
+    <h1>{{row['Name'] | remove:"#" | strip}}</h1>
+    {% continue %}
+    {% endif %}
 
     {% if row.Number == nil and row.Price == nil %}
-    <pre>
-    {{row.Name | split: ' ' | first}}
-    </pre>
-    {% if (row.Name | split: ' ' | first) == '#' %}
-    WOMBAT
-    {% endif %}
-    
-    <br><strong>{{row['Name']}}</strong>
+    <br><strong>{{row['Name'] | strip}}</strong>
     {% continue %}
     {% endif %}
    
