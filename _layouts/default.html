@@ -17,8 +17,7 @@
         <img src="{{'/wbf-logo.png' | relative_url}}" style="height:2em;vertical-align:middle;"/>
         {{ site.title }}
       </h1>
-       SIZE: {{ site.pages.size }}
-       SIZE: {{ site.pages | where:"dir","/" | size }}
+      {% if site.pages | where:"dir","/" | size != 5 }}
       {% for p in site.pages %}
         {% if p.title and p.dir == "/" %}
         {% if p.url == page.url %}
@@ -28,6 +27,7 @@
         {% endif %}
         {% endif %}
       {% endfor %}
+      {% endif %}
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}
