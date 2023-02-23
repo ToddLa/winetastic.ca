@@ -13,7 +13,7 @@ title: Wine
 
     {% if row.Number == nil and row.Price == nil %}
     <pre>
-    {{row.Name.first}}
+    {{row.Name | split | first}}
     </pre>
     <br><strong>{{row['Name']}}</strong>
     {% continue %}
