@@ -17,7 +17,14 @@ title: Wine
     {% endif %}
    
     <div style="display:flex; justify-content: space-between;">
-        <div>{{row['Name'] | strip}} &bull; {{row['Number'] | strip}}</div>
+        <div>
+          {{row['Name'] | strip}}
+          {% if row.Number != '' %}
+            <a class="btn" href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
+              {{row['Number'] | strip}}
+            </a>
+          {% endif %}
+        </div>
         <div>{{row['Price'] | strip}}</div>
     </div>
   {% endfor %}
