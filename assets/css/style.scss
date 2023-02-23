@@ -45,5 +45,9 @@ $blockquote-text-color: #819198 !default;
     color: #FFF;
     background-color: rgba($section-headings-color, 0.5);
     padding: 0.25rem 0.5rem;
-    margin-left: 0.25rem;
+    xxmargin-left: 0.25rem;
 }
+.main-content .btn:hover {
+    background-color: rgba($section-headings-color, 0.8);
+}
+
