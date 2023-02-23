@@ -12,6 +12,9 @@ title: Wine
     {% endif %}
 
     {% if row.Number == nil and row.Price == nil %}
+    <pre>
+    {{row.Name.first}}
+    </pre>
     <br><strong>{{row['Name']}}</strong>
     {% continue %}
     {% endif %}
