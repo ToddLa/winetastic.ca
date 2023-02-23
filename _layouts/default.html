@@ -17,8 +17,9 @@
         <img src="{{'/wbf-logo.png' | relative_url}}" style="height:2em;vertical-align:middle;"/>
         {{ site.title }}
       </h1>
-      {% assign top_pages = site.pages | where:"dir","/" | where_exp: "page", "page.url contains 'index.html'" %}
+      {% assign top_pages = site.pages | where:"dir","/" | where_exp:"page", "page.url contains 'index'" %}
       {{ top_pages.size }}
+      {% if top_pages.size > 1 %}
        {% for p in top_pages %}
         {% if p.url == page.url %}
           <a href="{{ p.url | relative_url | remove: '.html' }}" class="btn current">{{ p.title }}</a>
@@ -26,6 +27,7 @@
           <a href="{{ p.url | relative_url | remove: '.html' }}" class="btn">{{ p.title }}</a>
         {% endif %}
       {% endfor %}
+      {% endif %}
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}
