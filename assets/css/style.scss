@@ -43,7 +43,7 @@ $blockquote-text-color: #819198 !default;
 
 .main-content .btn {
     color: #FFF
-    background-color: rgba($section-headings-color,0.8);
+    background-color: $section-headings-color;
     padding: 0.25rem 0.5rem;
     margin-left: 0.25rem;
 }
