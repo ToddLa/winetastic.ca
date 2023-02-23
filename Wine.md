@@ -20,7 +20,7 @@ title: Wine
         <div>
           {{row['Name'] | strip}}
           {% if row.Number != '' %}
-            <a class="btn" href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
+            <a href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
               {{row['Number'] | strip}}
             </a>
           {% endif %}
