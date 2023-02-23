@@ -32,7 +32,7 @@ title: Wine
             </a>
           {% endif %}
         </div>
-        {% if row.Price != "" and row.Price != "0" %}
+        {% if row.Price != "" and row.Price != "0"  and row.Price != "$0.00" %}
           <div>{{row['Price'] | strip}}</div>
         {% endif %}
     </div>
