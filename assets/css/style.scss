@@ -42,8 +42,8 @@ $blockquote-text-color: #819198 !default;
 }
 
 .main-content .btn {
-    color: #FFF
-    background-color: $section-headings-color;
+    color: #FFF;
+    background-color: rgba($section-headings-color, 0.5);
     padding: 0.25rem 0.5rem;
     margin-left: 0.25rem;
 }
