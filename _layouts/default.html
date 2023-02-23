@@ -17,7 +17,7 @@
         <img src="{{'/wbf-logo.png' | relative_url}}" style="height:2em;vertical-align:middle;"/>
         {{ site.title }}
       </h1>
-      {% assign top_pages site.pages | where:"dir","/" %}
+      {% assign top_pages = site.pages | where:"dir","/" %}
       {{ top_pages.size }}
        {% for p in top_pages %}
         {% if p.url == page.url %}
