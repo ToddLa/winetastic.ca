@@ -7,12 +7,17 @@ title: Wine
     {% if row.Name == nil %}
     {% continue %}
     {% endif %}
+
+    {% if row.Number == nil and row.Price == nil and row.Name contains "## " %}
+    <h2>{{row['Name'] | remove:"#" | strip}}</h2>
+    {% continue %}
+    {% endif %}
     
     {% if row.Number == nil and row.Price == nil and row.Name contains "# " %}
     <h1>{{row['Name'] | remove:"#" | strip}}</h1>
     {% continue %}
     {% endif %}
-
+    
     {% if row.Number == nil and row.Price == nil %}
     <br><strong>{{row['Name'] | strip}}</strong>
     {% continue %}
