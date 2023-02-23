@@ -11,7 +11,7 @@ title: Wine
     {% continue %}
     {% endif %}
     
-    {% if row.Number == nil and row.Price == nil and (row.Name | split: " " | first) == "#" %}
+    {% if row.Number == nil and row.Price == nil and row.Name contains "# " %}
     <h1>{{row['Name'] | remove:"#" | strip}}</h1>
     {% continue %}
     {% endif %}
