@@ -18,9 +18,8 @@
         {{ site.title }}
       </h1>
        SIZE: {{ site.pages.size }}
-       {{ site.pages | inspect }}
+       SIZE: {{ site.pages.size | where:"dir","/" | size}}
       {% for p in site.pages %}
-      {{ p | inspect }}
         {% if p.title and p.dir == "/" %}
         {% if p.url == page.url %}
           <a href="{{ p.url | relative_url | remove: '.html' }}" class="btn current">{{ p.title }}</a>
