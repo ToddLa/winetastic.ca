@@ -41,13 +41,13 @@ $blockquote-text-color: #819198 !default;
     width: auto;
 }
 
-.main-content a {
+.main-content .btn {
     color: #FFF;
     background-color: rgba($section-headings-color, 0.8);
-    padding: 0.25rem 0.5rem;
-    margin: 0 0.25rem 0.25rem 0;
+    padding: 0.25em 0.5em;
+    margin: 0 0.25em 0.25em 0;
 }
-.main-content a:hover {
+.main-content .btn:hover {
     background-color: $section-headings-color;
 }
 
