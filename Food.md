@@ -14,9 +14,9 @@ title: Food
     {% endif %}
    
     {% if row['Image'] %}
-    <img style="max-height:4em; margin-right:auto; margin-left:auto;" src="{{row['Image']}}">
+    <br><img style="max-height:4em; margin-right:auto; margin-left:auto;" src="{{row['Image']}}">
     {% endif %}
-    <br><strong>{{row['Name']}}</<strong>
+    <br><strong>{{row['Name']}}</strong>
     <div style="display:flex; align-items: center">
         <div>{{row['Info'] | strip | newline_to_br | replace: "<br />", "<br /><br />"}}</div>
         {% if row['ImageRight'] %}
