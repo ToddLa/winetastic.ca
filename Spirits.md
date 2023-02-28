@@ -3,7 +3,7 @@ title: Spirits
 order: 5
 ---
 <div>
-  {% for row in site.data.beer %}
+  {% for row in site.data.spirits %}
   
     {% if row.Name == nil %}
     {% continue %}
