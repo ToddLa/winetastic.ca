@@ -1,5 +1,6 @@
 ---
 title: Beer & Spirits
+order: 4
 ---
 <div>
   {% for row in site.data.beer %}
