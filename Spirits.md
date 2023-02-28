@@ -1,6 +1,6 @@
 ---
-title: Beer
-order: 4
+title: Spirits
+order: 5
 ---
 <div>
   {% for row in site.data.beer %}
