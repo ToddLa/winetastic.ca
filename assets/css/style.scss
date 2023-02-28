@@ -41,10 +41,11 @@ $blockquote-text-color: #819198 !default;
     width: auto;
 }
 
-@media screen and (max-width: 42em)
-.btn {
-padding: 0.5rem;
-font-size: 0.9rem;
+@media screen and (max-width: 42em) {
+    .btn {
+        padding: 0.5rem;
+        font-size: 0.85rem;
+    }
 }
 
 .main-content .btn {
