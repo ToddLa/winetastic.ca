@@ -41,6 +41,12 @@ $blockquote-text-color: #819198 !default;
     width: auto;
 }
 
+@media screen and (max-width: 42em)
+.btn {
+padding: 0.5rem;
+font-size: 0.9rem;
+}
+
 .main-content .btn {
     color: #FFF;
     background-color: rgba($section-headings-color, 0.8);
