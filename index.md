@@ -15,27 +15,13 @@ The Whistler Blackcomb Foundation has raised over 18 million for Registered Sea 
 ![](https://cdn.shopify.com/s/files/1/2271/2615/files/wb-logo_1180x@2x.png)
 
 <a href="https://whistlerblackcombfoundation.com">
-<img style="max-height:8em" src="https://cdn.shopify.com/s/files/1/2271/2615/files/wb-logo_1180x@2x.png">
+<img style="max-height:6em" src="https://cdn.shopify.com/s/files/1/2271/2615/files/wb-logo_1180x@2x.png">
 </a>
 > The Whistler Blackcomb Foundation  
 4545 Blackcomb Way  
 Whistler, BC  
 V8E 0X9  
 [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
-
-<div style="display:flex; align-items: center">
-    <blockquote>
-    The Whistler Blackcomb Foundation<br>
-    4545 Blackcomb Way<br>
-    Whistler, BC<br>
-    V8E 0X9<br>
-    <a href="https://whistlerblackcombfoundation.com">whistlerblackcombfoundation.com</a>
-    </blockquote>
-    
-    <a href="https://whistlerblackcombfoundation.com">
-    <img style="max-width:8em; padding-left:1em" src="https://cdn.shopify.com/s/files/1/2271/2615/files/wb-logo_1180x@2x.png">
-    </a>
-</div>
 
 # THANK YOU
 
@@ -44,7 +30,7 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 <div style="text-align:center">
   {% for row in site.data.sponsors %}
     {% if row['Image'] and row['URL'] %}
-      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="height:8em"></a>
+      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="height:6em"></a>
     {% endif %}
   {% endfor %}
 </div>
