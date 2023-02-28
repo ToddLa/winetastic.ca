@@ -1,5 +1,5 @@
 ---
-title: Beer
+title: Beer & Spirits
 ---
 <div>
   {% for row in site.data.beer %}
