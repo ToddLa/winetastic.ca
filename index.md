@@ -29,7 +29,7 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 <div style="text-align:center">
   {% for row in site.data.sponsors %}
     {% if row['Image'] and row['URL'] %}
-      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="max-height:4em"></a>
+      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="max-height:3em"></a>
     {% endif %}
   {% endfor %}
 </div>
