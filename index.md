@@ -21,6 +21,14 @@ Whistler, BC
 V8E 0X9  
 [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
 
+```
+The Whistler Blackcomb Foundation  
+4545 Blackcomb Way  
+Whistler, BC  
+V8E 0X9  
+[whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
+```
+
 # THANK YOU
 
 The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sponsors of the 24th Annual Whistler Winetastic.  
@@ -28,7 +36,7 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 <div style="text-align:center">
   {% for row in site.data.sponsors %}
     {% if row['Image'] and row['URL'] %}
-      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="height:6em"></a>
+      <a href="{{row['URL']}}"><img src="{{row['Image']}}" style="max-height:6em"></a>
     {% endif %}
   {% endfor %}
 </div>
