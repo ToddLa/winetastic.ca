@@ -1,5 +1,6 @@
 ---
 title: VIP
+order: 2
 ---
 <div>
   {% for row in site.data.vip %}
