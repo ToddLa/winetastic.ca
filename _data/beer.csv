@@ -1,37 +1,40 @@
-Name,Number,Price,
-,,,
-# BEER & CIDERS,,,
-,,,
-Bridge Brewing Company,,,
-Primetime Pale Ale,82239,$10.79,6x355ml
-PrimeTime Blackberry,449570,$10.79,6x355ml
-Bourbon Blood Orange Wheat Ale,593608,$10.99,4x473ml
-,,,
-Coast Mountain Brewing,,,
-Hope You're Happy IPA,145725,$17.50,
-The Surveyor IPA,27420,$17.50,
-Valley Trail Pale Ale,427776,$17.50,
-Crystal Chair Lager,86127,$17.00,
-,,,
-Frequent Pour,,,
-Northyard's 'Dry' Cider,74156,$6.98,473ml
-Northyards Grapefruit 'Hopped' Cider,112899,$6.98,473ml
-Northyards Tutti Frutti,,$6.98,473ml
-,,,
-Persephone Brewing Co.,,,
-Bear Paw Honey lager- 355ml x 6pk,602326,$12.79*,
-Orange Wit- 473ml x 4pk,401293,$11.83*,
-Mountaineer Pilsner- 355mlx 8pk,47402,$14.09*,
-Black Tusk Ale - 473ml,,$2.99*,
-,,,
-Salt Spring Wild Cider,,,
-PEAR,443135,$16.50,
-SEMI DRY,547828,$16.50,
-,,,
-Whistler Brewing Company,,,
-Bear Paw Honey lager- 355ml x 6pk,602326,$12.79*,
-Orange Wit- 473ml x 4pk,401293,$11.83*,
-Mountaineer Pilsner- 355mlx 8pk,47402,$14.09*,
-Black Tusk Ale - 473ml,,$2.99*,
-,,,
-* only at WBC,,,
+Name,Number,Price
+,,
+# BEER & CIDERS,,
+,,
+A-FRAME Brewing Co,,
+Sending SKUS on Monday,,
+,,
+,,
+,,
+Batch 44 Brewery,,
+Saints & Sinners Irish Red Ale,447373,
+Old Creeker Ceam Ale,447373,
+Bohemian King Pilsner,447373,
+,,
+Millionaire's Row,,
+Makin a Mint ,68466,$10.00
+High n' Dry ,68448,$10.00
+Full Steam Ahead,391043,$10.00
+,,
+Salt Spring Wild Cider,,
+Salt Spring Wild Cider Elderberry,539908,$17.99
+Salt Spring Wild Cider Pear,443135,$17.99
+Salt Spring Wild Cider Ginger,2830,$17.99
+,,
+Steamworks Brewing Co.,,
+Pilsner,585182,$2.69
+Flagship IPA,189053,$3.29
+Dark Lager,383962,$2.99
+,,
+Whistler Brewing Company,,
+Mountain mango sour,317996,$12.69
+Mountaineer Pilsner,74702,$15.00
+Variable Conditions IPA,253677,$12.69
+The Forged Lumberjack Ale,347688,$12.69
+,,
+YD Bev Co,,
+Chase My tail,66753,$11.52
+Retriever Golden Ale,4393,$11.56
+Way of Life Hazy IPa,352498,$11.85
+Johnny's Premium Pale Ale,430419,$11.50
