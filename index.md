@@ -5,8 +5,6 @@ order: 1
 
 # WELCOME TO THE 2024 WHISTLER WINETASTIC
 
-<!--
-
 <BR>Presented by REMAX Sea to Sky Real Estate
 
 The following is a short note on how to use your passport. The numbers noted after each product are the codes/SKUs that are standard throughout BC. This will help you easily find any beverages sampled here this evening by providing this code to your local liquor store.
@@ -39,5 +37,3 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 </div>
 
 And a huge thank you to all of the attendees of this evening’s event. The Sea to Sky Community is lucky to have you in it!
-
--->
