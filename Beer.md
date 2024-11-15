@@ -1,6 +1,7 @@
 ---
 title: Beer
 order: 4
+hide: true
 ---
 <div>
   {% for row in site.data.beer %}

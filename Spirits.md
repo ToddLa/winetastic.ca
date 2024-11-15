@@ -1,6 +1,7 @@
 ---
 title: Spirits
 order: 5
+hide: true
 ---
 <div>
   {% for row in site.data.spirits %}

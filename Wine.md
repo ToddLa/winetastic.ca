@@ -1,6 +1,7 @@
 ---
 title: Wine
 order: 3
+hide: true
 ---
 <div>
   {% for row in site.data.wine %}

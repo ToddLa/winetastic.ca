@@ -3,6 +3,10 @@ title: Home
 order: 1
 ---
 
+# MARK YOUR CALENDAR for next year's event:
+# Feb. 28 & Mar. 1, 2025
+
+<!--
 # WELCOME TO THE 2024 WHISTLER WINETASTIC
 
 <BR>Presented by REMAX Sea to Sky Real Estate
@@ -37,3 +41,5 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 </div>
 
 And a huge thank you to all of the attendees of this evening’s event. The Sea to Sky Community is lucky to have you in it!
+
+-->
