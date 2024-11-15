@@ -3,8 +3,10 @@ title: Home
 order: 1
 ---
 
-# MARK YOUR CALENDAR for next year's event:
-# Feb. 28 & Mar. 1, 2025
+We look forward to seeing you on February 28th, 2025! Check back here for a list of products being poured at the event.
+
+<BR>Tickets on sale December 9th. Visit (whistlerblackcombfoundation.com)[https://whistlerblackcombfoundation.com/pages/telus-winter-classic] for more info.
+ 
 
 <!--
 # WELCOME TO THE 2024 WHISTLER WINETASTIC
