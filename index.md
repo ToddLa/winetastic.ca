@@ -1,6 +1,7 @@
 ---
 title: Home
 order: 1
+nonav: true
 ---
 
 We look forward to seeing you on February 28th, 2025! Check back here for a list of products being poured at the event.
