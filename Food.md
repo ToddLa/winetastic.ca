@@ -1,6 +1,5 @@
 ---
 title: Food
-hide: true
 ---
 <div>
   {% for row in site.data.food %}
