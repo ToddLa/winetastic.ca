@@ -13,10 +13,17 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-       <h1 class="project-name">
-        <img src="{{'/images/winetastic.png' | relative_url}}" style="height:7em;vertical-align:middle;"/>
-      </h1>
-
+        <h1 class="project-name">
+            <img src="{{'/images/winetastic.png' | relative_url}}" style="height:7em;vertical-align:middle;"/>
+        </h1>
+        
+        <pre>
+            {% page.title %}
+            {% page.hide %}
+            {% page.nonav %}
+            {% page.url %}
+        </pre>
+        
       {% assign top_pages = site.pages | where:"dir","/" %}
       {% assign top_pages = top_pages | sort:"order","last" %}
       {% if top_pages.size > 1 %}
