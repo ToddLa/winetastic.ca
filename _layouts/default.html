@@ -18,10 +18,10 @@
         </h1>
         
         <pre>
-            {% page.title %}
-            {% page.hide %}
-            {% page.nonav %}
-            {% page.url %}
+            {{ page.title }}
+            {{ page.hide }}
+            {{ page.nonav }}
+            {{ page.url }}
         </pre>
         
       {% assign top_pages = site.pages | where:"dir","/" %}
