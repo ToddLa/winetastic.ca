@@ -3,7 +3,7 @@ title: Home
 order: 1
 ---
 
-# WELCOME TO THE 2024 WHISTLER WINETASTIC
+# WELCOME TO THE 2025 WHISTLER WINETASTIC
 
 <BR>Presented by REMAX Sea to Sky Real Estate
 
