@@ -7,8 +7,9 @@ nonav: true
 
 We look forward to seeing you on February 28th, 2025! Check back here for a list of products being poured at the event.
 
-Tickets on sale December 9th. Visit [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com/pages/telus-winter-classic) for more info.
- 
+Please note, this event is sold out!
+
+Visit [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com/pages/telus-winter-classic) for more info.
 
 <!--
 # WELCOME TO THE 2024 WHISTLER WINETASTIC
