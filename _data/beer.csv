@@ -1,41 +1,50 @@
-Name,Number,Price
-,,
-# BEER & CIDERS,,
-,,
-A-FRAME Brewing Co,,
-Okanagan Lake Cream Ale. ,0,0
-Sproat Lake Pale Ale. ,0,0
-Adams Lake New England Pale Ale,0,0
-Lake Lovely Water Blueberry Rooibos Sour,0,0
-,,
-Batch 44 Brewery,,
-Saints & Sinners Irish Red Ale,447373,
-Old Creeker Ceam Ale,447373,
-Bohemian King Pilsner,447373,
-,,
-Millionaire's Row,,
-Makin a Mint ,68466,$10.00
-High n' Dry ,68448,$10.00
-Full Steam Ahead,391043,$10.00
-,,
-Salt Spring Wild Cider,,
-Salt Spring Wild Cider Elderberry,539908,$17.99
-Salt Spring Wild Cider Pear,443135,$17.99
-Salt Spring Wild Cider Ginger,2830,$17.99
-,,
-Steamworks Brewing Co.,,
-Pilsner,585182,$2.69
-Flagship IPA,189053,$3.29
-Dark Lager,383962,$2.99
-,,
-Whistler Brewing Company,,
-Mountain mango sour,317996,$12.69
-Mountaineer Pilsner,74702,$15.00
-Variable Conditions IPA,253677,$12.69
-The Forged Lumberjack Ale,347688,$12.69
-,,
-YD Bev Co,,
-Chase My tail,66753,$11.52
-Retriever Golden Ale,4393,$11.56
-Way of Life Hazy IPa,352498,$11.85
-Johnny's Premium Pale Ale,430419,$11.50
+Name,Number,Price,
+,,,
+# BEER & CIDERS,,,
+,,,
+,,,
+Beva Brewing & Blending,,,
+Old Days German Pilsner,346500,$78.00/FLAT,
+Reelaxin West Coast Pale Ale,293947,$81.00/FLAT,
+Brico English Porter,245975,$75.00/FLAT,
+,,,
+Coast Mountain Brewing,,,
+Paradise in Peaks Mango + Passionfruit sour,288820,19.75/4pk,
+Coast Light Lager,330322,17.25/6pk,
+Hope You're Happy IPA,145725,18.00/4pk,
+,,,
+Geo Cider,,,
+Old World Apple Cider,194363,,
+Black Plum Apple Cider,338900,,
+,,,
+Giant's Head Brewing,,,
+Razzle Dazzle-Raspberry Vanilla cream,428621,$12.50,
+Classic Pilsner-Czech style Pilsner,444352,$12.75,
+Okanagan Haze-Hazy IPA,369954,$12.75,
+,,,
+Nonny Beer,,,
+Nonny Pale,NON-4p-pal,$12.99,
+Nonny IPA,NON-4p-ipa,$12.99,
+Nonny Pilsner,NON-4p-pil,$12.99,
+,,,
+Northam Beverages ,Brand,,
+Lonetree Authentic Dry Cider,Lonetree,168773,$13.99
+Lonetree Ginger Apple Dry Cider,Lonetree,777631,$14.29
+Lonetree Black Currant Dry Cider,Lonetree,383359,$14.29
+,,,
+Riley's Cidery,,,
+Sip & Tell,407508,$21.00,
+Long Lost Apples,531825,$21.00,
+Doppeljack,752287,$21.00,
+,,,
+Salt Spring WIld Cider,,,
+Plum,77263,$16.00,
+Ginger,2830,$15.00,
+Bitter Orange,196235,$15.00,
+Semi Dry,547828,$15.00,
+,,,
+Whistler Brewing Company,,,
+Mountianeer Pilsner 8x355ml,47402,$15.00,
+Dos Esqueletos Salted Lime lager 6x355ml,383519,$13.50,
+Variable Conditions IPA 6x355ml,253677,$13.50,
+Cherry Sour 1x473ml,274517,$3.50,
