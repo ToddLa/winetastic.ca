@@ -24,8 +24,14 @@ title: Food
         {% endif %}
     </div>
     <div>
-        {% if row['URL'] %}<a class="btn" href="{{row['URL']}}">{{row['URL'] | remove: 'http://' | remove: 'https://' }}</a>{% endif %}
-        {% if row['Phone'] %}<a class="btn" href="tel:{{row['Phone']}}">{{row['Phone']}}</a>{% endif %}
+        {% if row['URL'] %}
+        <a class="btn" href="{{row['URL']}}">
+        {{row['URL'] | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: "?" | first | split: "/" | first }}
+        </a>
+        {% endif %}
+        {% if row['Phone'] %}
+        <a class="btn" href="tel:{{row['Phone']}}">{{row['Phone']}}</a>
+        {% endif %}
     </div>
   {% endfor %}
 </div>
