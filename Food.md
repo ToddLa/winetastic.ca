@@ -20,7 +20,7 @@ title: Food
     <div style="display:flex; align-items: center">
         <div>
         {% if row['Image'] %}
-        <br><img style="float:left; max-height:4em; margin-right:0.5em; margin-left:0; display:block;" src="{{row['Image']}}">
+        <img style="float:left; max-height:4em; margin-right:0.5em; margin-left:0; display:block;" src="{{row['Image']}}">
         {% endif %}
         {{row['Info'] | strip | newline_to_br | replace: "<br />", "<br /><br />"}}
         </div>    
