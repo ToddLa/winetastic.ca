@@ -38,14 +38,14 @@ $blockquote-text-color: #819198 !default;
 
 .btn {
     display: inline-block;
-    margin:0.25em !important;
+    margin:0.25em 0.25em 0.25em 0 !important;
     padding: 0.5rem;
     width: auto
 }
 
 @media screen and (max-width: 42em) {
     .btn {
-        margin:0.25em 0.05em !important;
+        margin:0.25em 0.1em 0.25em 0 !important;
         padding: 0.25rem;
     }
 }
