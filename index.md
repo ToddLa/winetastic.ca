@@ -13,7 +13,7 @@ Thank you for your support and we hope you enjoy your evening. Cheers!
 
 ## Our Mission
 
-The Whistler Blackcomb Foundation has raised over 18 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
+The Whistler Blackcomb Foundation has raised over 22 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
 
 <a href="https://whistlerblackcombfoundation.com">
 <img style="max-height:6em" src="images/wbf-logo.png">
