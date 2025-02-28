@@ -1,18 +1,9 @@
 ---
 title: Home
 order: 1
-hide: true
-nonav: true
 ---
 
-We look forward to seeing you on February 28th, 2025! Check back here for a list of products being poured at the event.
-
-Please note, this event is sold out!
-
-Visit [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com/pages/telus-winter-classic) for more info.
-
-<!--
-# WELCOME TO THE 2024 WHISTLER WINETASTIC
+# WELCOME TO THE 2025 WHISTLER WINETASTIC
 
 <BR>Presented by REMAX Sea to Sky Real Estate
 
@@ -46,5 +37,3 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 </div>
 
 And a huge thank you to all of the attendees of this evening’s event. The Sea to Sky Community is lucky to have you in it!
-
--->
