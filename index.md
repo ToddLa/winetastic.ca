@@ -5,10 +5,10 @@ order: 1
 
 # WELCOME TO THE 2025 WHISTLER WINETASTIC
 
-<BR>Presented by REMAX Sea to Sky Real Estate
+<BR>Presented by RE/MAX Sea to Sky Real Estate
 
-The following is a short note on how to use your passport. The numbers noted after each product are the codes/SKUs that are standard throughout BC. This will help you easily find any beverages sampled here this evening by providing this code to your local liquor store.
-
+ This site provides you with a list of all the beverage products you will see in the room tonight. Take note of your favorites as well as the code/SKU marked next to it so that you can easily find it from your local liquor store in BC. Many of the products here are also for sale in the Foyer this evening, so you can buy after you try with a portion of the proceeds going to the Whistler Blackcomb Foundation!
+ 
 Thank you for your support and we hope you enjoy your evening. Cheers!
 
 ## Our Mission
