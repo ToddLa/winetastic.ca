@@ -20,7 +20,16 @@ order: 3
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil %}
-    <br><strong>{{row['Name'] | strip}}</strong>
+    {% assign title =  row['Name'] | split: " -- " | first | strip %}
+    {% assign url   =  row['Name'] | split: " -- " | last | strip %}
+
+    <br><strong>{{title}}</strong>
+    {% if title != url %}
+    <a class="btn" href="{{url}}">
+    {{url | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: "?" | first | split: "/" | first }}
+    </a>
+    {% endif %}
+    
     {% continue %}
     {% endif %}
    
