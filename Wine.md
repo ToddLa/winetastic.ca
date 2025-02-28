@@ -23,15 +23,12 @@ order: 3
     {% assign title =  row['Name'] | split: " -- " | first | strip %}
     {% assign url   =  row['Name'] | split: " -- " | last | strip %}
 
-    <br>
-    <div style="display:flex; justify-content: space-between;">
-    <strong>{{title}}</strong>
+    <br><strong>{{title}}</strong>
     {% if title != url %}
     <a class="btn" href="{{url}}">
     {{url | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: "?" | first | split: "/" | first }}
     </a>
     {% endif %}
-    </div>
     
     {% continue %}
     {% endif %}
