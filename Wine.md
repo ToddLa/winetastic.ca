@@ -24,12 +24,12 @@ order: 3
     {% assign url   =  row['Name'] | split: " -- " | last | strip %}
 
     {% if title != url %}
-    <br><strong>{{title}}</strong>
-    {% else %}
     <br>
     <a href="{{url}}">
     <strong>{{title}}</strong>
     </a>
+    {% else %}
+    <br><strong>{{title}}</strong>
     {% endif %}
     
     {% continue %}
