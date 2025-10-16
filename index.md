@@ -1,8 +1,20 @@
 ---
 title: Home
 order: 1
+nonav: true
 ---
 
+<a href="https://whistlerblackcombfoundation.com">
+<img style="max-height:6em; display:block; margin:auto;" src="images/wbf-logo.png">
+</a>
+
+We look forward to seeing you on March 6th, 2026! Check back here for a list of products being poured at the event.
+
+Tickets on sale early December. Visit www.whistlerblackcombfoundation.com
+
+Interested in being a vendor? Contact jkerrigan@whistlerblackcombfoundation.com
+
+<!--
 # WELCOME TO THE 2025 WHISTLER WINETASTIC
 
 <BR>Presented by RE/MAX Sea to Sky Real Estate
@@ -37,3 +49,4 @@ The Whistler Blackcomb Foundation would like to sincerely thank the Corporate Sp
 </div>
 
 And a huge thank you to all of the attendees of this evening’s event. The Sea to Sky Community is lucky to have you in it!
+-->
