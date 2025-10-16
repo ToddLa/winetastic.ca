@@ -10,9 +10,9 @@ nonav: true
 
 We look forward to seeing you on March 6th, 2026! Check back here for a list of products being poured at the event.
 
-Tickets on sale early December. Visit www.whistlerblackcombfoundation.com
+Tickets on sale early December. Visit [whistlerblackcombfoundation.com](https://whistlerblackcombfoundation.com)
 
-Interested in being a vendor? Contact jkerrigan@whistlerblackcombfoundation.com
+Interested in being a vendor? Contact [jkerrigan@whistlerblackcombfoundation.com](mailto:jkerrigan@whistlerblackcombfoundation.com)
 
 <!--
 # WELCOME TO THE 2025 WHISTLER WINETASTIC
