@@ -1,47 +1,49 @@
-Name,Number,Price
-,,
-# BEER & CIDERS,,
-,,
-,,
-Beva Brewing & Blending,,
-Old Days German Pilsner,346500,$78.00/FLAT
-Reelaxin West Coast Pale Ale,293947,$81.00/FLAT
-Brico English Porter,245975,$75.00/FLAT
-,,
-Coast Mountain Brewing,,
-Paradise in Peaks Mango + Passionfruit sour,288820,$19.75/4pk
-Coast Light Lager,330322,$17.25/6pk
-Hope You're Happy IPA,145725,$18.00/4pk
-,,
-,,
-Giant's Head Brewing,,
-Razzle Dazzle-Raspberry Vanilla cream,428621,$12.50
-Classic Pilsner-Czech style Pilsner,444352,$12.75
-Okanagan Haze-Hazy IPA,369954,$12.75
-,,
-Nonny Beer,,
-Nonny Pale,NON-4p-pal,$12.99
-Nonny IPA,NON-4p-ipa,$12.99
-Nonny Pilsner,NON-4p-pil,$12.99
-,,
-Northam Beverages ,,
-Lonetree Authentic Dry Cider,168773,$13.99
-Lonetree Ginger Apple Dry Cider,777631,$14.29
-Lonetree Black Currant Dry Cider,383359,$14.29
-,,
-Riley's Cidery,,
-Sip & Tell,407508,$21.00
-Long Lost Apples,531825,$21.00
-Doppeljack,752287,$21.00
-,,
-Salt Spring WIld Cider,,
-Plum,77263,$16.00
-Ginger,2830,$15.00
-Bitter Orange,196235,$15.00
-Semi Dry,547828,$15.00
-,,
-Whistler Brewing Company,,
-Mountaineer Pilsner 8x355ml,47402,$15.00
-Dos Esqueletos Salted Lime lager 6x355ml,383519,$13.50
-Variable Conditions IPA 6x355ml,253677,$13.50
-Cherry Sour 1x473ml,274517,$3.50
+Name,Number,Price,Info,Store
+,,,,
+# BEER & CIDERS,,,,
+,,,,
+A-FRAME Brewing Co,,,,
+Okanagan Lake Cream Ale,95800,$2.99,per 473ml,
+Cup Lake Lemon Earl Grey Sour,480786,$3.79,per 473ml,
+Sproat Lake Hazy Pale Ale,95805,$3.20,per 473ml,
+Skull Lake Imperial Stout,147460,$8.70,per 650ml,
+,,,,
+Bowen Cider House Ltd.,,,,
+Snug Cove Strubarb 750mL Bottle,238700,$22.00,,
+Roger Curtis Raspberry 473mL Can,704052,$7.00,,
+Ugly Apples Gala 473mL Can,262244,$6.25,,
+Barrel Aged 750mL Bottle,238703,$23.00,,
+Seymour Bay Scrumpy 750mL Bottle,394516,$20.00,,
+,,,,
+Coast Mountain Brewing,,,,
+Hope You're Happy,145725,$15.70,,
+Cervezarita Margarita Style,658693,$17.23,,
+JaPOW Rice Lager,295332,$15.70,,
+,,,,
+Geo Cider Ltd,,,,
+Blood Orange,83136,$15.50,,
+Old World Apple,83119,$15.50,,
+Pear,41588,$15.50,,
+Blood Orange NA,853587000976,$12.50,Non-alcoholic ,
+Rosé NA,85387000983,$12.50,Non-alcoholic ,
+,,,,
+Howe Sound Brewing,,,,
+Hazy Daze IPA,245702,$12.63,,
+Squamish Valley Pale Ale,650844,$12.40,,
+Der Varmer-Drier Helles Lager,659306,$12.50,,
+,,,,
+Millionaires' Row Cider,,,,
+High n Dry,68448,$10.00,,
+Makin a Mint,68466,$10.00,,
+Research Raspberry,287303,$10.00,,
+,,,,
+The Parkside Brewery / Rewind Beer Co. / Slackwater Brewing,,,,
+Parkside Motel Hazy Pale Ale,131072,$14.64,4 pk,
+Rewind Laser Lite Lager,273964,$25.29,15 pk,
+Rewind BIG Westcoast IPA,273964,19.99,15 pk,
+Slackwater Headwaters,363984,$14.39,4 pk,
+,,,,
+Nonny Beer,,,,
+Nonny Pilsner,NON-24P-PIL,53.10/24P,Non-alcoholic ,
+Nonny IPA,NON-24P-IPA,53.10/24P,Non-alcoholic ,
+Nonny Pale Ale,NON-24P-PAL,53.10/24P,Non-alcoholic ,
