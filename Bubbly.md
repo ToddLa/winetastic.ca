@@ -3,7 +3,7 @@ title: Bubbly
 order: 3
 ---
 <div>
-  {% for row in site.data.wine %}
+  {% for row in site.data.bubbly %}
   
     {% if row.Name == nil %}
     {% continue %}
