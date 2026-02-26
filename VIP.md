@@ -33,7 +33,7 @@ order: 2
             </a>
           {% endif %}
           {% if row.Store == "Yes" %}
-            <img src="images/store_icon_red circle.png" style="max-height:3em">
+            <img src="images/store_icon_red circle.png" style="max-height:1em">
           {% endif %}
         </div>
         {% if row.Price != "" and row.Price != "0" %}
