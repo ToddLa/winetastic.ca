@@ -32,10 +32,8 @@ order: 2
               {{row['Number'] | strip}}
             </a>
           {% endif %}
-          {% if row.Store == "Yes" or true %}
-                <a href="{{row['URL']}}">
-                    <img src="images/store_icon_red circle.png" style="max-height:3em">
-                </a>
+          {% if row.Store == "Yes" %}
+            <img src="images/store_icon_red circle.png" style="max-height:3em">
           {% endif %}
         </div>
         {% if row.Price != "" and row.Price != "0" %}
