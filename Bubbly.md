@@ -1,9 +1,9 @@
 ---
-title: Spirits
-order: 5
+title: Bubbly
+order: 3
 ---
 <div>
-  {% for row in site.data.spirits %}
+  {% for row in site.data.wine %}
   
     {% if row.Name == nil %}
     {% continue %}
@@ -20,7 +20,18 @@ order: 5
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil %}
-    <br><strong>{{row['Name'] | strip}}</strong>
+    {% assign title =  row['Name'] | split: " -- " | first | strip %}
+    {% assign url   =  row['Name'] | split: " -- " | last | strip %}
+
+    {% if title != url %}
+    <br>
+    <a href="{{url}}">
+    <strong>{{title}}</strong>
+    </a>
+    {% else %}
+    <br><strong>{{title}}</strong>
+    {% endif %}
+    
     {% continue %}
     {% endif %}
    

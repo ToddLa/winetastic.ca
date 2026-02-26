@@ -32,6 +32,9 @@ order: 4
               {{row['Number'] | strip}}
             </a>
           {% endif %}
+          {% if row.Store == "Yes" %}
+            <img src="images/store_icon_red circle.png" style="display:inline-block;max-height:1.25em;vertical-align:middle">
+          {% endif %}
         </div>
         {% if row.Price != "" and row.Price != "0" %}
           <div>{{row['Price'] | strip}}</div>
