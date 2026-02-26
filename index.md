@@ -2,6 +2,7 @@
 title: Home
 order: 1
 nonav: true
+hide: true
 ---
 
 <a href="https://whistlerblackcombfoundation.com">
