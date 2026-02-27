@@ -19,7 +19,7 @@ title: Food
     {% endif %}
     -->
     {% if row['Image']  %}
-        <br><br>
+        <br>
     {% else %}
         <br><strong>{{row['Name']}}</strong>
     {% endif %}
