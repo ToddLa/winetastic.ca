@@ -21,7 +21,7 @@ Interested in being a vendor? Contact [jkerrigan@whistlerblackcombfoundation.com
 
 This site provides you with a list of all the beverage products you will see in the room tonight. Take note of your favorites as well as the code/SKU marked next to it so that you can easily find it from your local liquor store in BC. Note that the retail values are just a guideline and will very depending on the store.
 
-Many of the products here are also for sale in the Foyer this evening, so you can buy after you try with a portion of the proceeds going to the Whistler Blackcomb Foundation! Look for this icon
+<b>Many of the products here are also for sale in the Foyer this evening, so you can buy after you try with a portion of the proceeds going to the Whistler Blackcomb Foundation!</b> Look for this icon
 <img src="images/store_icon_red circle.png" style="display:inline-block;max-height:1.25em;vertical-align:middle">
 to see which products can be found at our store in the Foyer.
  
