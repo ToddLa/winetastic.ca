@@ -5,19 +5,19 @@ Name,Number,Price,Info,Store
 A-FRAME Brewing Co,,,,
 Okanagan Lake Cream Ale,95800,$2.99,per 473ml,
 Cup Lake Lemon Earl Grey Sour,480786,$3.79,per 473ml,
-Sproat Lake Hazy Pale Ale,95805,$3.20,per 473ml,
-Skull Lake Imperial Stout,147460,$8.70,per 650ml,
+Sproat Lake Hazy Pale Ale,95805,$3.20,per 473ml,YES
+Skull Lake Imperial Stout,147460,$8.70,per 650ml,YES
 ,,,,
 Bowen Cider House Ltd.,,,,
-Snug Cove Strubarb 750mL Bottle,238700,$22.00,,
+Snug Cove Strubarb 750mL Bottle,238700,$22.00,,YES
 Roger Curtis Raspberry 473mL Can,704052,$7.00,,
 Ugly Apples Gala 473mL Can,262244,$6.25,,
-Barrel Aged 750mL Bottle,238703,$23.00,,
+Barrel Aged 750mL Bottle,238703,$23.00,,YES
 Seymour Bay Scrumpy 750mL Bottle,394516,$20.00,,
 ,,,,
 Coast Mountain Brewing,,,,
-Hope You're Happy,145725,$15.70,,
-Cervezarita Margarita Style,658693,$17.23,,
+Hope You're Happy,145725,$15.70,,YES
+Cervezarita Margarita Style,658693,$17.23,,YES
 JaPOW Rice Lager,295332,$15.70,,
 ,,,,
 Geo Cider Ltd,,,,
@@ -33,8 +33,8 @@ Squamish Valley Pale Ale,650844,$12.40,,
 Der Varmer-Drier Helles Lager,659306,$12.50,,
 ,,,,
 Millionaires' Row Cider,,,,
-High n Dry,68448,$10.00,,
-Makin a Mint,68466,$10.00,,
+High n Dry,68448,$10.00,,YES
+Makin a Mint,68466,$10.00,,YES
 Research Raspberry,287303,$10.00,,
 ,,,,
 The Parkside Brewery / Rewind Beer Co. / Slackwater Brewing,,,,
@@ -44,6 +44,6 @@ Rewind BIG Westcoast IPA,273964,19.99,15 pk,
 Slackwater Headwaters,363984,$14.39,4 pk,
 ,,,,
 Nonny Beer,,,,
-Nonny Pilsner,NON-24P-PIL,53.10/24P,Non-alcoholic ,
-Nonny IPA,NON-24P-IPA,53.10/24P,Non-alcoholic ,
+Nonny Pilsner,NON-24P-PIL,53.10/24P,Non-alcoholic ,YES
+Nonny IPA,NON-24P-IPA,53.10/24P,Non-alcoholic ,YES
 Nonny Pale Ale,NON-24P-PAL,53.10/24P,Non-alcoholic ,

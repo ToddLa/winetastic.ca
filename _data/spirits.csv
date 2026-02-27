@@ -6,7 +6,7 @@ Name,Number,Price,Store
 Authentic Wine & Spirits,,,
 Benromach 10,74548,$74.99,
 Empress cocktail - Bitter Bianca,645085,$48.99,
-Empress cocktail - Elderflower Rose,283966,$35.49,
+Empress cocktail - Elderflower Rose,283966,$35.49,YES
 ,,,
 Don Julio Tequila,,,
 Don Julio 70,445133,$117.99,
@@ -18,11 +18,11 @@ CASCAHUÍN tequila blanco,267939,$72.00,
 ,,,
 Montis Distilling,,,
 North Vodka,148092,$41.00,
-Alpine Gin,148089,$45.00,
+Alpine Gin,148089,$45.00,YES
 Alpenglow Gin,10152,$45.00,
 Cloud 9 Gin,245368,$49.00,
 Limited Edition Gin,148086,$49.00,
-Winter Spirit,99695,$52.00,
+Winter Spirit,99695,$52.00,YES
 ,,,
 Please Beverage Company,,,
 Margarita (Classic) - 4 pack can ,248079,$18.00,
@@ -39,15 +39,15 @@ Jose Cuervo Devil's Reserve,290398,$34.99,
 ,,,
 Sweetwater Distilling Co.,,,
 Mt. Erskine Vodka - 750ml ,360001,$49.99,
-Honeyberry Forest Gin - 750ml,360004,$56.99,
+Honeyberry Forest Gin - 750ml,360004,$56.99,YES
 Mrs. Fendall's Gin - 750ml,360019,$56.99,
-Nocino - 750ml,360027,$56.99,
+Nocino - 750ml,360027,$56.99,YES
 Barrel Aged Gin - 375ml,355350,$41.99,
 Apple Brandy - 375ml,365364,$39.99,
 ,,,
 Tofino Distillery,,,
-Westcoast Whiskey,357291,$65.00,
-Psychadelic Jellyfish Absinthe,201135,$65.00,
+Westcoast Whiskey,357291,$65.00,YES
+Psychadelic Jellyfish Absinthe,201135,$65.00,YES
 Old Growth Cedar Gin,216733,$43.00,
 Espresso Vodka,190862,$43.00,
 Limoncello,55175,$43.00,
