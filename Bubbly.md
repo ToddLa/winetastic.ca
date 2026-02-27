@@ -38,7 +38,7 @@ order: 3
     <div style="display:flex; justify-content: space-between;">
         <div>
           {{row['Name'] | strip}}
-          {% if row.Number != "" and row.Number != "0" %}
+          {% if false and row.Number != "" and row.Number != "0" %}
             <a href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
               {{row['Number'] | strip}}
             </a>
