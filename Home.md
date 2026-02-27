@@ -19,13 +19,17 @@ Interested in being a vendor? Contact [jkerrigan@whistlerblackcombfoundation.com
 
 <BR>Presented by RE/MAX Sea to Sky Real Estate
 
- This site provides you with a list of all the beverage products you will see in the room tonight. Take note of your favorites as well as the code/SKU marked next to it so that you can easily find it from your local liquor store in BC. Many of the products here are also for sale in the Foyer this evening, so you can buy after you try with a portion of the proceeds going to the Whistler Blackcomb Foundation!
+This site provides you with a list of all the beverage products you will see in the room tonight. Take note of your favorites as well as the code/SKU marked next to it so that you can easily find it from your local liquor store in BC. Note that the retail values are just a guideline and will very depending on the store.
+
+Many of the products here are also for sale in the Foyer this evening, so you can buy after you try with a portion of the proceeds going to the Whistler Blackcomb Foundation! Look for this icon
+<img src="images/store_icon_red circle.png" style="display:inline-block;max-height:1.25em;vertical-align:middle">
+to see which products can be found at our store in the Foyer.
  
 Thank you for your support and we hope you enjoy your evening. Cheers!
 
 ## Our Mission
 
-The Whistler Blackcomb Foundation has raised over 22 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
+The Whistler Blackcomb Foundation has raised over 24 million for Registered Sea to Sky Charities making it the largest fundraising organization in the area. Our mandate is to support larger, more everlasting community projects within the Sea to Sky Corridor, as well as to build a stronger relationship with residents of the community. The Whistler Blackcomb Foundation is dedicated to providing financial support to organizations whose activities provide benefit to residents of the Sea to Sky Corridor in the areas of health, human services, education, recreation, arts & culture and the environment with a special emphasis placed on youth and family programs.
 
 <a href="https://whistlerblackcombfoundation.com">
 <img style="max-height:6em" src="images/wbf-logo.png">
