@@ -20,17 +20,31 @@ hide: true
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil %}
-    <br><strong>{{row['Name'] | strip}}</strong>
+    {% assign title =  row['Name'] | split: " -- " | first | strip %}
+    {% assign url   =  row['Name'] | split: " -- " | last | strip %}
+
+    {% if title != url %}
+    <br>
+    <a href="{{url}}">
+    <strong>{{title}}</strong>
+    </a>
+    {% else %}
+    <br><strong>{{title}}</strong>
+    {% endif %}
+    
     {% continue %}
     {% endif %}
    
     <div style="display:flex; justify-content: space-between;">
         <div>
           {{row['Name'] | strip}}
-          {% if row.Number != "" and row.Number != "0" %}
+          {% if false and row.Number != "" and row.Number != "0" %}
             <a href="https://www.bcliquorstores.com/product-catalogue?search={{row['Number'] | strip}}">
               {{row['Number'] | strip}}
             </a>
+          {% endif %}
+          {% if row.Store | upcase == "YES" %}
+            <img src="images/store_icon_red circle.png" style="display:inline-block;max-height:1.25em;vertical-align:middle">
           {% endif %}
         </div>
         {% if row.Price != "" and row.Price != "0" %}
