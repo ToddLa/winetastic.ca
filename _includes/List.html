@@ -1,34 +1,34 @@
 <div>
-  {% for row in data %}
-  
+{% for row in include.data %}
+
     {% if row.Name == nil %}
     {% continue %}
     {% endif %}
 
     {% if row.Number == nil and row.Price == nil and row.Name contains "## " %}
-    <h2>{{row['Name'] | remove:"#" | strip}}</h2>
-    {% continue %}
+        <h2>{{row['Name'] | remove:"#" | strip}}</h2>
+        {% continue %}
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil and row.Name contains "# " %}
-    <h1>{{row['Name'] | remove:"#" | strip}}</h1>
-    {% continue %}
+        <h1>{{row['Name'] | remove:"#" | strip}}</h1>
+        {% continue %}
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil %}
-    {% assign title =  row['Name'] | split: " -- " | first | strip %}
-    {% assign url   =  row['Name'] | split: " -- " | last | strip %}
+        {% assign title =  row['Name'] | split: " -- " | first | strip %}
+        {% assign url   =  row['Name'] | split: " -- " | last | strip %}
 
-    {% if title != url %}
-    <br>
-    <a href="{{url}}">
-    <strong>{{title}}</strong>
-    </a>
-    {% else %}
-    <br><strong>{{title}}</strong>
-    {% endif %}
-    
-    {% continue %}
+        {% if title != url %}
+            <br>
+            <a href="{{url}}">
+            <strong>{{title}}</strong>
+            </a>
+        {% else %}
+            <br><strong>{{title}}</strong>
+        {% endif %}
+        
+        {% continue %}
     {% endif %}
    
     <div style="display:flex; justify-content: space-between;">
@@ -44,10 +44,10 @@
           {% endif %}
         </div>
         {% if row.Price != "" and row.Price != "0" %}
-          <div>{{row['Price'] | strip}}</div>
+            <div>{{row['Price'] | strip}}</div>
         {% endif %}
     </div>
-  {% endfor %}
+{% endfor %}
 </div>
 
 
