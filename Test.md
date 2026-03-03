@@ -3,7 +3,9 @@ title: Test
 hide: true
 ---
 <div>
-  {% for row in site.data.wine %}
+# Test 1
+  {% assign data = site.data.wine %}
+  {% for row in data %}
   
     {% if row.Name == nil %}
     {% continue %}
