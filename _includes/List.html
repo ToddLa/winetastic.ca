@@ -16,10 +16,10 @@
     {% endif %}
     
     {% if row.Number == nil and row.Price == nil %}
-        {% assign title =  row['Name'] | split: " -- " | first | strip %}
-        {% assign url   =  row['Name'] | split: " -- " | last | strip %}
+        {% assign title =  row['Name'] | strip %}
+        {% assign url   =  row['URL'] | strip %}
 
-        {% if title != url %}
+        {% if url != "" %}
             <br>
             <a href="{{url}}">
             <strong>{{title}}</strong>
