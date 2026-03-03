@@ -2,6 +2,6 @@
 title: Test
 hide: true
 ---
-# Test 2
+# Test 3
 
 {% include List.html data = site.data.wine %}
