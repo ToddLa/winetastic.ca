@@ -2,8 +2,9 @@
 title: Test
 hide: true
 ---
-<div>
 # Test 1
+
+<div>
   {% assign data = site.data.wine %}
   {% for row in data %}
   
