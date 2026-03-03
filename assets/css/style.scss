@@ -54,11 +54,12 @@ $blockquote-text-color: #819198 !default;
 
 .main-content .btn {
     color: #FFF;
-    background-color: rgba($section-headings-color, 0.8);
+    background-color: $section-headings-color;
     padding: 0.25em 0.5em;
     margin: 0 0.25em 0.25em 0;
 }
 .main-content .btn:hover {
+    font-weight: bold;
     background-color: $section-headings-color;
 }
 
